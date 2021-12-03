@@ -22,7 +22,7 @@ D2 Rune Maker?
   - _**MVP**_ Page with all runewords by level or name?
   - _**MVP**_ Page with specified armor/weapon types?(Page for chest, helm, shield, etc.,) 
     * __Stretch__ Searchable filter on a left nav column (Filter like a shopping website)
-  - 
+  -
 
 ## Functionality
 
@@ -31,9 +31,8 @@ D2 Rune Maker?
       - __Stretch__ for showing all base types
       - _**MVP**_ Below header show runes implement either dropdown or spot to enter in amount.
         - Refer to draw.io layout
-    - __Stretch__ always show left nav bar to filter  
-    
-  
+    - __Stretch__ always show left nav bar to filter
+
 
 ## Design
 
@@ -44,20 +43,3 @@ D2 Rune Maker?
   - Create custom database with all runes
   - WIP how to filter runes selected to show runewords able to create
 
-
-
-
-Health Tracker?
-
-## Ideas
-  * _**MVP**_ Medication List Section
-    * Prescribing Dr.
-    * Name
-    * Last refilled date/How many days a fill lasts
-    * Dose (pills/syringe ml)
-    * What it's for
-
-  * _**MVP**_ Daily Checks List
-    * Blood Pressure? (Spot to enter level range)
-    * Blood Sugar? (Spot to enter level range)
-    * 
