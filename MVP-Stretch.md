@@ -43,3 +43,21 @@ D2 Rune Maker?
 * C# back end?
   - Create custom database with all runes
   - WIP how to filter runes selected to show runewords able to create
+
+
+
+
+Health Tracker?
+
+## Ideas
+  * _**MVP**_ Medication List Section
+    * Prescribing Dr.
+    * Name
+    * Last refilled date/How many days a fill lasts
+    * Dose (pills/syringe ml)
+    * What it's for
+
+  * _**MVP**_ Daily Checks List
+    * Blood Pressure? (Spot to enter level range)
+    * Blood Sugar? (Spot to enter level range)
+    * 
