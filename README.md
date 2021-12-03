@@ -65,6 +65,22 @@
 * 10:00
   - React CRUD with ASP.Net Core API Full Stack Tutorial https://www.youtube.com/watch?v=NemyDIUcC64 about 2hrs long
 
+-----
+
+* 1:15
+  - Deciding between using MySQL or MongoDB 
+    * What would be better to focus on? More real world use?
+    * Looked at MongoDB compare article https://www.mongodb.com/compare/mongodb-mysql and a lot of reddit posts.
+      * Probably sticking with MySQL
+
+--------------
+
+* 2:00
+  - Reading up on AWS vs Azure for hosting
+    * Costs
+    * Usability
+    * Potential discounts for maintaining on the platform
+    * Future personal use
 
 
 
