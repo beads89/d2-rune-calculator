@@ -2,6 +2,7 @@
 
 - List of Runewords via Diablo 2 Wiki https://diablo2.diablowiki.net/Runewords
   * Rune list https://diablo2.diablowiki.net/Rune_list
-    - Need to download icons 
+    - Icons in RunewordCalculator/ClientApp/src/img sourced from https://diablo2.diablowiki.net/Rune_list
 
 - Create template with "dotnet new react RunewordCalculator" https://docs.microsoft.com/en-us/aspnet/core/client-side/spa/react?view=aspnetcore-6.0&tabs=visual-studio. Need to look at Recommended content under Additional resources
+
