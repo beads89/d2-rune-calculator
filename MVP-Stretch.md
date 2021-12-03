@@ -13,14 +13,15 @@ D2 Rune Maker?
 
 * List of runes
  - _**MVP**_ 33 total
- - _**MVP**_ List by low, mid, high?
  - _**MVP**_ Dropdown for number of runes? Counter instead? .val insert w/number input?
+ - __Stretch__ List by low, mid, high?
  - __Stretch__ Click function to take to specified page for runes and x number of runes before or after and Runewords possible with that rune.
  - __Stretch__ Use trade sheet(from Sanct Discord) to auto update current HR cost?
+  * Have a link directly to xml, or find a way to import data from xml to webpage?
 
 * Runewords
   - _**MVP**_ Page with all runewords by level or name?
-  - _**MVP**_ Page with specified armor/weapon types?(Page for chest, helm, shield, etc.,) 
+  - _**MVP**_ Page with specified armor/weapon types?(Page for chest, helm, shield, etc.,)
     * __Stretch__ Searchable filter on a left nav column (Filter like a shopping website)
   -
 
