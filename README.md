@@ -82,6 +82,20 @@
     * Potential discounts for maintaining on the platform
     * Future personal use
 
+  - Probably going with **Azure**
+
+--------------
+
+* 3:00 
+  - More research on MySQL and MongoDB - May just scratch it altogether
+    * Maybe find a way to print to pdf or try to make an import/export system 
+
+--------------
+
+* 3:45
+  - Creating draw.io initial layout - v1
+
+
 
 
 
