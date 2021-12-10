@@ -47,7 +47,9 @@
     - Create custom database with all runes
     - WIP how to filter runes selected to show runewords able to create
 
------  
+-----
+
+Friday 12/3
 
 * 9:00
   - Looking into maybe utilizing sounds from this bundle https://www.humblebundle.com/software/boom-royalty-free-sounds-music-audio?hmb_source=&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_1_layout_type_threes_tile_index_3_c_gamedevmusic_bundle. Finding previews - Found some but still undecided if wanting to use
@@ -94,6 +96,13 @@
 
 * 3:45
   - Creating draw.io initial layout - v1
+
+--------------------------------
+
+Friday 12/10
+
+* 8:15 - Solidifying actual language use
+  - Use C# at all or do pure JavaScript w/jQuery and React?
 
 
 
