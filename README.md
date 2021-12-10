@@ -49,7 +49,7 @@
 
 -----
 
-Friday 12/3
+### Friday 12/3
 
 * 9:00
   - Looking into maybe utilizing sounds from this bundle https://www.humblebundle.com/software/boom-royalty-free-sounds-music-audio?hmb_source=&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_1_layout_type_threes_tile_index_3_c_gamedevmusic_bundle. Finding previews - Found some but still undecided if wanting to use
@@ -99,11 +99,16 @@ Friday 12/3
 
 --------------------------------
 
-Friday 12/10
+### Friday 12/10
 
 * 8:15 - Solidifying actual language use
   - Use C# at all or do pure JavaScript w/jQuery and React?
 
+
+* 9:00 - Refactored draw.io layout - v2
+  - Initial MVP/Stretch goals
+  - Try single page functionality for ease of use.
+  ![Draw.io](/RunewordCalculator/ClientApp/src/img/layout.drawio.png)
 
 
 
