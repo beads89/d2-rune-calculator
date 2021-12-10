@@ -92,6 +92,78 @@ let runewords = [
     lvlReq: 65,
     runes: ["Io", "Jah", "Pul"],
     stats: ["BOTH:", "10% Chance To Cast Level 15 Confuse When Struck", "Level 15 Holy Shock Aura When Equipped", "+20-30% Faster Hit Recovery", "30% Enhanced Defense", "+150-220 Defense", "+10 To Vitality", "+(0.625 * Player Lvl) To Mana", "All Resistances +5-20", "12-25% Better Chance of Getting Magic Items", "HELMETS ONLY:", "Increase Maximum Life 5%", "SHIELDS ONLY:", "+50 to Life"]
-  }, {}
+  }, {
+    name: "Ice",
+    sockets: 4,
+    gearType: "Bows and Crossbows",
+    lvlReq: 65,
+    runes: ["Amn", "Shael", "Jah", "Lo"],
+    stats: ["100% Chance To Cast Level 40 Blizzard When You Level-up", "25% Chance To Cast Level 22 Frost Nova On Striking", "Level 18 Holy Freeze Aura When Equipped", "+20% Increased Attack Speed", "+140-210% Enhanced Damage", "Ignores Target's Defense", "+25-30% To Cold Skill Damage", "7% Life Stolen Per Hit", "-20% To Enemy Cold Resistance", "20% Deadly Strike", "(3.125 * Player Lvl)% Extra Gold From Monsters"]
+  }, {
+    name: "Eternity",
+    sockets: 5,
+    gearType: "All Melee Weapons",
+    lvlReq: 63,
+    runes: ["Amn", "Ber", "Ist", "Sol", "Sur"],
+    stats: ["Indestructible", "+260-310% Enhanced Damage", "+9 To Minimum Damage", "7% Life Stolen Per Hit", "20% Chance of Crushing Blow", "Hit Blinds Target", "Slows Target By 30%", "Replenish Mana 16%", "Cannot Be Frozen", "30% Chance Of Getting Magic Items", "Level 8 Revive (88 Charges)"]
+  }, {
+    name: "Infinity",
+    sockets: 4,
+    gearType: "Polearms",
+    lvlReq: 63,
+    runes: ["Ber", "Mal", "Ber", "Ist"],
+    stats: ["50% Chance To Cast Level 20 Chain Lightning When You Kill An Enemy", "Level 12 Conviction Aura When Equipped", "+35% Faster Run/Walk", "+255-325% Enhanced Damage", "-45-55% To Enemy Lightning Resistance", "40% Chance of Crushing Blow", "+(0.5 * Player Lvl) To Vitality", "30% Better Chance of Getting Magic Items", "Level 21 Cyclone Armor (30 Charges)"]
+  }, {
+    name: "Chains of Honor",
+    sockets: 4,
+    gearType: "Body Armor",
+    lvlReq: 63,
+    runes: ["Dol", "Um", "Ber", "Ist"],
+    stats: ["+2 To All Skills", "+200% Damage To Demons", "+100% Damage To Undead", "8% Life Stolen Per Hit", "+70% Enhanced Defense", "+20 To Strength", "Replenish Life +7", "All Resistances +65", "Damage Reduced By 8%", "25% Better Chance of Getting Magic Items"]
+  }, {
+    name: "Beast",
+    sockets: 5,
+    gearType: "Axes, Hammers and Scepters",
+    lvlReq: 63,
+    runes: ["Ber", "Tir", "Um", "Mal", "Lum"],
+    stats: ["Level 9 Fanaticism Aura When Equipped", "+40% Increased Attack Speed", "+240-270% Enhanced Damage", "20% Chance of Crushing Blow", "25% Chance of Open Wounds", "+3 To Werebear", "+3 To Lycanthropy", "Prevent Monster Heal", "+25-40 To Strength", "+10 TO Energy", "+2 To Mana After Each Kill", "Level 13 Summon Grizzly (5 Charges)"]
+  }, {
+    name: "Wrath",
+    sockets: 4,
+    gearType: "Bows and Crossbows",
+    lvlReq: 63,
+    runes: ["Pul", "Lum", "Ber", "Mal"],
+    stats: ["30% Chance To Cast Level 1 Decrepify On Striking", "5% Chance To Cast Level 10 Life Tap On Striking", "+375% Damage To Demons", "+100 To Attack Rating Against Demons", "+250-300% Damage To Undead", "Adds 85-120 Magic Damage", "Adds 41-240 Lightning Damage", "20% Chance of Crushing Blow", "Prevent Monster Heal", "+10 To Energy", "Cannot Be Frozen"]
+  }, {
+    name: "Dragon",
+    sockets: 3,
+    gearType: "Body Armor and Shields",
+    lvlReq: 61,
+    runes: ["Sur", "Lo", "Sol"],
+    stats: ["BOTH:", "20% Chance to Cast Level 18 Venom When Struck", "12% Chance To Cast Level 15 Hydra On Striking", "Level 14 Holy Fire Aura When Equipped", "+360 Defense", "+230 Defense Vs. Missile", "+3-5 To All Attributes", "+(0.375 * Player Lvl) To Strength", "+5% To Maximum Lightning Resist", "Damage Reduced by 7", "BODY ARMOR ONLY:", "Increase Maximum Mana 5%", "SHIELDS ONLY:", "+50 To Mana"]
+  }, {
+    name: "Bramble",
+    sockets: 4,
+    gearType: "Body Armor",
+    lvlReq: 61,
+    runes: ["Ral", "Ohm", "Sur", "Eth"],
+    stats: ["Level 15-21 Thorns Aura When Equipped", "+50% Faster Hit Recovery", "+25-50% To Poison Skill Damage", "+300 Defense", "Increase Maximum Mana 5%", "Regenerate Mana 15%", "+5% To Maximum Cold Resist", "Fire Resist +30%", "Poison Resist +100%", "+13 Life After Each Kill", "Level 13 Spirit of Barbs (33 Charges)"]
+  }, {
+    name: "Wind",
+    sockets: 2,
+    gearType: "All Melee Weapons",
+    lvlReq: 61,
+    runes: ["Sur", "El"],
+    stats: ["10% Chance To Cast Level 9 Tornado On Striking", "+20% Faster Run/Walk", "+40% Increased Attack Speed", "+15% Faster Hit Recovery", "+120-160% Enhanced Damage", "-50% Target Defense", "+50 To Attack Rating", "Hit Blinds Target", "+1 To Light Radius", "Level 13 Twister (127 Charges)"]
+  }, {
+    name: "Grief",
+    sockets: 5,
+    gearType: "Axes and Swords",
+    lvlReq: 59,
+    runes: ["Eth", "Tir", "Lo", "Mal", "Ral"],
+    stats: ["35% Chance To Cast Level 15 Venom On Striking", "+30-40% Increased Attack Speed", "Damage +340-400", "Ignore Target's Defense", "-25% Target Defense", "+(1.875 * Player Lvl)% Damage To Demons", "Adds 5-30 Fire Damage", "-20-25% To Enemy Poison Resistance", "20% Deadly Strike", "Prevent Monster Heal", "+2 To Mana After Each Kill", "+10-15 Life After Each Kill"]
+  }, {
+    
+  }
 
 ]
