@@ -401,6 +401,90 @@ let runewords = [
     runes: ["Nef", "Lum"],
     stats: ["+20% Faster Hit Recovery", "+75% Enhanced Defense", "+250 Defense vs. Missle", "+10 To Energy", "All Resistances +50", "-1 To Light Radius", "Level 6 Weaken (18 Charges"]
   }, {
+    name: "White",
+    sockets: 2,
+    gearType: "Wands",
+    lvlReq: 35,
+    runes: ["Dol", "Io"],
+    stats: ["+3 to Poison and Bone Skills (Necromancer Only)", "+20% Faster Cast Rate", "+2 to Bone Spear (Necromancer Only)", "+4 to Skeleton Mastery (Necromancer Only)", "+3 to Bone Armor (Necromancer Only)", "Hit Causes Monster To Flee 25%", "+10 To Vitality", "+13 To Mana", "Magic Damage Reduced By 4"]
+  }, {
+    name: "Black",
+    sockets: 3,
+    gearType: "Clubs, Hammers and Maces",
+    lvlReq: 35,
+    runes: ["Thul", "Io", "Nef"],
+    stats: ["+15% Increased Attack Speed", "+120% Enhanced Damage", "+200 To Attack Rating", "Adds 3-14 Cold Damage", "40% Chance of Crushing Blow", "Knockback", "+10 To Vitality", "Magic Damage Reduced By 2", "Level 4 Corpse Explosion (12 Charges)"]
+  }, {
+    name: "Myth",
+    sockets: 3,
+    gearType: "Body Armor",
+    lvlReq: 25,
+    runes: ["Hel", "Anm", "Nef"],
+    stats: ["3% Chance To Cast Level 1 Howl When Struck", "10% Chance To Cast Level 1 Taunt On Striking", "+2 To Barbarian Skill Levels", "+30 Defense Vs. Missile", "Replenish Life +10", "Attacker Takes Damage of 14", "Requirements -15%"]
+  }, {
+    name: "Peace",
+    sockets: 3,
+    gearType: "Body Armor",
+    lvlReq: 29,
+    runes: ["Shael", "Thul", "Amn"],
+    stats: ["4% Chance To Cast Level 5 Slow Missiles When Struck", "2% Chance To Cast level 15 Valkyrie On Striking", "+2 To Amazon Skill Levels", "+20% Faster Hit Recovery", "+2 To Critical Strike", "Cold Resist +30%", "Attacker Takes Damage of 14"]
+  }, {
+    name: "Rhyme",
+    sockets: 2,
+    gearType: "All Shields",
+    lvlReq: 29,
+    runes: ["Shael", "Eth"],
+    stats: ["+40% Faster Block Rate", "20% Increased Chance of Blocking", "Regenerate Mana 15%", "All Resistances +25", "Cannot Be Frozen", "50% Extra Gold From Monsters", "25% Better Chance of Getting Magic Items"]
+  }, {
+    name: "Honor",
+    sockets: 5,
+    gearType: "All Melee Weapons",
+    lvlReq: 27,
+    runes: ["Anm", "El", "Ith", "Tir", "Sol"],
+    stats: ["+1 To All Skills", "+160% Enhanced Damage", "+9 To Minimum Damage", "+9 To Maximum Damage", "+250 to Attack Rating", "7% Life Stolen Per Hit", "25% Deadly Strike", "+10 To Strength", "Replenish Life +10", "+2 to Mana After Each Kill", "+1 To Light Radius"]
+  }, {
+    name: "Lore",
+    sockets: 2,
+    gearType: "All Helmets",
+    lvlReq: 27,
+    runes: ["Ort", "Sol"],
+    stats: ["+1 To All Skills", "+10 TO Energy", "Lightning Resist +30%", "Damage Reduced By 7", "+2 To Mana After Each Kill", "+2 To Light Radius"]
+  }, {
+    name: "Insight",
+    sockets: 4,
+    gearType: "Polearms and Staves",
+    lvlReq: 27,
+    runes: ["Ral", "Tir", "Tal", "Sol"],
+    stats: ["Level 12-17 Meditation Aura When Equipped", "+35% Faster Cast Rate", "+200-260% Enhanced Damage", "+9 To Minimum Damage", "180-250% Bonus to Attack Rating", "Adds 5-30 Fire Damage", "+75 Poison Damage Over 5 Seconds", "+1-6 To Critical Strike", "+5 To All Attributes", "+2 To Mana After Each Kill", "23% Better Chance of Getting Magic Items"]
+  }, {
+    name: "Radiance",
+    sockets: 3,
+    gearType: "All Helmets",
+    lvlReq: 27,
+    runes: ["Nef", "Sol", "Ith"],
+    stats: ["+75% Enhanced Defense", "+30 Defense vs. Missiles", "+10 To Vitality", "+10 To Energy", "+33 To Mana", "Damage Reduced By 7", "Magic Damage Reduced By 3", "15% Damage Taken Goes To Mana", "+5 to Light Radius"]
+  }, {
+    name: "Spirit",
+    sockets: 4,
+    gearType: "Shields and Swords",
+    lvlReq: 25,
+    runes: ["Tal", "Thul", "Ort", "Anm"],
+    stats: ["BOTH:", "+2 To All Skills", "+25-35% Faster Cast Rate", "+55% Faster Hit Recovery", "+250 Defense Vs. Missile", "+22 To Vitality", "+89-112 To Mana", "+3-8 Magic Absorb", "SHIELDS:", "Cold Resist +35%", "Lightning Resist +35%", "Poison Resist +35%", "Attacker Takes Damage of 14", "SWORDS:", "Adds 1-50 Lightning Damage", "Adds 3-14 Cold Damage", "+75 Poison Damage Over 5 Seconds", "7% Life Stolen Per Hit",]
+  }, {
+    name: "King's Grace",
+    sockets: 3,
+    gearType: "Swords and Scepters",
+    lvlReq: 25,
+    runes: ["Anm", "Ral", "Thul"],
+    stats: ["+100% Enhanced Damage", "+150 To Attack Rating", "+100% Damage To Demons", "+100 To Attack Rating Against Demons", "+50% Damage To Undead", "+100 To Attack Rating Against Undead", "Adds 5-30 Fire Damage", "Adds 3-14 Cold Damage", "7% Life Stolen Per Hit"]
+  }, {
+    name: "Edge",
+    sockets: 3,
+    gearType: "Bows and Crossbows",
+    lvlReq: 25,
+    runes: ["Tir", "Tal", "Anm"],
+    stats: ["Level 15 Thorns Aura When Equipped", "+35% Increased Attack Speed", "+320-380% Damage To Demons", "+280% Damage To Undead", "+75 Poison Damage Over 5 Seconds", "7% Life Stolen Per Hit", "Prevent Monster Heal", "+5-10 To All Attributes", "+2 To Mana After Each Kill", "Reduces All Vendor Prices By 15%"]
+  }, {
     
   }
 
