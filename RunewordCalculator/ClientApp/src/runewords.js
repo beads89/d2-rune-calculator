@@ -247,7 +247,118 @@ let runewords = [
     runes: ["Lem", "Ist", "Io"],
     stats: ["1% Chance To Cast lvl 50 Delirium When Struck", "6% Chance To Cast lvl 14 Mind Blast When Struck", "14% Chance To Cast lvl 13 Terror When Struck", "11% Chance To Cast lvl 18 Confuse On Striking", "+2 To All Skills", "+261 Defense", "+10 To Vitality", "50% Extra Gold From Monsters", "25% Better Chance of Getting Magic Items", "Level 17 Attract (60 Charges)"]
   }, {
-    
+    name: "Sanctuary",
+    sockets: 3,
+    gearType: "All Shields",
+    lvlReq: 49,
+    runes: ["Ko", "Ko", "Mal"],
+    stats: ["+20% Faster Hit Recovery", "+20% Faster Block Rate", "20% Increased Chance of Blocking", "+130-160% Enhanced Defense", "+250 Defense vs. Missle", "+20 To Dexterity", "All Resistances +50-70", "Magic Damage Reduced By 7", "Level 12 Slow Missles (60 Charges)"]
+  }, {
+    name: "Venom",
+    sockets: 3,
+    gearType: "All Ranged and Melee Weapons",
+    lvlReq: 49,
+    runes: ["Tal", "Dol", "Mal"],
+    stats: ["Ignore Target's Defense", "+273 Poison Damage Over 6 Seconds", "7% Mana Stolen Per Hit", "Prevent Monster Heal", "Hit Causes Monster To Flee 25%", "Level 13 Poison Nova (11 Charges)", "Level 15 Poison Explosion (27 Charges)"]
+  }, {
+    name: "Rain",
+    sockets: 3,
+    gearType: "Body Armor",
+    lvlReq: 49,
+    runes: ["Ort", "Mal", "Ith"],
+    stats: ["5% Chance To Cast Level 15 Cyclone Armor When Struck", "5% Chance To Cast Level 15 Twister On Striking", "+2 To Druid Skills", "+100-150 To Mana", "Lightning Resist +30%", "Magic Damage Reduced By 7", "15% Damage Taken Goes to Mana"]
+  }, {
+    name: "Prudence",
+    sockets: 2,
+    gearType: "Body Armor",
+    lvlReq: 49,
+    runes: ["Mal", "Tir"],
+    stats: ["+25% Faster Hit Recovery", "+140-170% Enhanced Defense", "All Resistances +25-35", "Damage Reduced by 3", "Magic Damage Reduced By 17", "+2 To Mana After Each Kill", "+1 To Light Radius", "Repairs Durability 1 In 4 Seconds"]
+  }, {
+    name: "Bone",
+    sockets: 3,
+    gearType: "Body Armor",
+    lvlReq: 47,
+    runes: ["Sol", "Um", "Um"],
+    stats: ["15% Chance To Cast level 10 Bone Armor When Struck", "15% Chance To Cast level 10 Bone Spear On Striking", "+2 To Necromancer Skills", "+100-150 To Mana", "All Resistances +30", "Damage Reduced By 7"]
+  }, {
+    name: "Gloom",
+    sockets: 3,
+    gearType: "Body Armor",
+    lvlReq: 47,
+    runes: ["Fal", "Um", "Pul"],
+    stats: ["15% Chance To Cast Level 3 Dim Vision When Struck", "+10% Faster Hit Recovery", "+200-260% Enhanced Defense", "+10 To Strength", "All Resistances +45", "Half Freeze Duration", "5% Damage Taken Goes To Mana", "-3 To Light Radius"]
+  }, {
+    name: "Stone",
+    sockets: 4,
+    gearType: "Body Armor",
+    lvlReq: 47,
+    runes: ["Shael", "Um", "Pul", "Lum"],
+    stats: ["+60% Faster Hit Recovery", "+250-290% Enhanced Defense", "+16 To Strength", "+16 To Vitality", "+10 To Energy", "All Resistances +15", "Level 16 Molten Boulder (80 Charges)", "Level 16 Clay Golem (16 Charges)"]
+  }, {
+    name: "Duress",
+    sockets: 3,
+    gearType: "Body Armor",
+    lvlReq: 47,
+    runes: ["Shael", "Um", "Thul"],
+    stats: ["40% Faster Hit Recovery", "+10-20% Enhanced Damage", "Adds 37-133 Cold Damage", "15% Crushing Blow", "33% Open Wounds", "+150-200% Enhanced Defense", "-20% Slower Stamina Drain", "Cold Resist +45%", "Lightning Resist +15%", "Fire Resist +15%", "Poison Resist +15%"]
+  }, {
+    name: "Crescent Moon",
+    sockets: 3,
+    gearType: "Axes, Polearms and Swords",
+    lvlReq: 47,
+    runes: ["Shael", "Um", "Tir"],
+    stats: ["10% Chance To Cast Level 17 Chain Lightning On Striking", "7% Chance To Cast Level 13 Static Field On Striking", "+20% Increased Attack Speed", "+180-220% Enhanced Damage", "Ignore Target's Defense", "-35% To Enemy Lightning Resistance", "25% Chance of Open Wounds", "+9-11 Magic Absorb", "+2 To Mana After Each Kill", "Level 18 Summon Spirit Wolf (30 Charges)"]
+  }, {
+    name: "Enlightenment",
+    sockets: 3,
+    gearType: "Body Armor",
+    lvlReq: 45,
+    runes: ["Pul", "Ral", "Sol"],
+    stats: ["5% Chance To Cast Level 15 Blaze When Struck", "5% Chance To Cast level 15 Fire Ball On Striking", "+2 To Sorceress Skill Levels", "+1 To Warmth", "+30% Enhanced Defense", "Fire Resist +30%", "Damage Reduced By 7"]
+  }, {
+    name: "Lawbringer",
+    sockets: 3,
+    gearType: "Hammers, Scepters and Swords",
+    lvlReq: 43,
+    runes: ["Anm", "Lem", "Ko"],
+    stats: ["20% Chance To Cast Level 15 Decrepify On Striking", "Level 16-18 Sanctuary Aura When Equipped", "-50% Target Defense", "Adds 150-210 Fire Damage", "Adds 130-180 Cold Damage", "7% Life Stolen Per Hit", "Slain Monsters Rest In Peace", "+200-250 Defense vs. Missle", "+10 To Dexterity", "75% Extra Gold From Monsters"]
+  }, {
+    name: "Wealth",
+    sockets: 3,
+    gearType: "Body Armor",
+    lvlReq: 43,
+    runes: ["Lem", "Ko", "Tir"],
+    stats: ["+10 To Dexterity", "+2 to Mana After Each Kill", "300% Extra Gold From Monsters", "100% Better Chance of Getting Magic Items"]
+  }, {
+    name: "Voice of Reason",
+    sockets: 4,
+    gearType: "Maces and Swords",
+    lvlReq: 43,
+    runes: ["Lem", "Ko", "El", "Eld"],
+    stats: ["15% Chance To Cast Level 13 Frozen Orb On Striking", "18% Chance To Cast Level 20 Ice Blast On Striking", "+50 To Attack Rating", "+220-350% Damage To Demons", "+335-375% Damage To Undead", "+50 To Attack Rating Against Undead", "Adds 100-220 Cold Damage", "-24% To Enemy Cold Resistance", "+10 TO Dexterity", "Cannot Be Frozen", "75% Extra Gold From Monsters", "+1 To Light Radius"]
+  }, {
+    name: "Passion",
+    sockets: 4,
+    gearType: "All Ranged and Melee Weapons",
+    lvlReq: 43,
+    runes: ["Dol", "Ort", "Eld", "Lem"],
+    stats: ["+25% Increased Attack Speed", "+160-210% Enhanced Damage", "50-80% Bonus To Attack Rating", "75% Damage To Undead", "+50 To Attack Rating Against Undead", "Adds 1-50 Lightning Damage", "+1 To Berserk", "+1 To Zeal", "Hit Blinds Target +10", "Hit Causes Monster To Flee 25%", "75% Extra Gold From Monsters", "Level 3 Heart of Wolverine (12 Charges)"]
+  }, {
+    name: "Treachery",
+    sockets: 3,
+    gearType: "Body Armor",
+    lvlReq: 43,
+    runes: ["Shael", "Thul", "Lem"],
+    stats: ["5% Chance To Cast Level 15 Fade When Struck", "25% Chance To Cast level 15 Venom On Striking", "+2 To Assassin Skills", "+45% Increased Attack Speed", "+20% Faster Hit Recovery", "Cold Resist +30%", "50% Extra Gold From Monsters"]
+  }, {
+    name: "Obedience",
+    sockets: 5,
+    gearType: "Polearms",
+    lvlReq: 41,
+    runes: ["Hel", "Ko", "Thul", "Eth", "Fal"],
+    stats: ["30% Chance To Cast Level 21 Enchant When You Kill An Enemy", "+40% Faster Hit Recovery", "+370% Enhanced Damage", "-25% Target Defense", "Adds 3-14 Cold Damage", "-25% To Enemy Fire Resistance", "40% Chance of Crushing Blow", "+200-300 Defense", "+10 To Strength", "+10 To Dexterity", "All Resistance +20-30", "Requirements -20%"]
   }
+
 
 ]
