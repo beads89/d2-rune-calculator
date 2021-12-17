@@ -247,7 +247,7 @@ let runewords = [
     runes: ["Lem", "Ist", "Io"],
     stats: ["1% Chance To Cast lvl 50 Delirium When Struck", "6% Chance To Cast lvl 14 Mind Blast When Struck", "14% Chance To Cast lvl 13 Terror When Struck", "11% Chance To Cast lvl 18 Confuse On Striking", "+2 To All Skills", "+261 Defense", "+10 To Vitality", "50% Extra Gold From Monsters", "25% Better Chance of Getting Magic Items", "Level 17 Attract (60 Charges)"]
   }, {
-
+    
   }
 
 ]
