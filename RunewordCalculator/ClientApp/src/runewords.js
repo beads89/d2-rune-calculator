@@ -163,6 +163,34 @@ let runewords = [
     runes: ["Eth", "Tir", "Lo", "Mal", "Ral"],
     stats: ["35% Chance To Cast Level 15 Venom On Striking", "+30-40% Increased Attack Speed", "Damage +340-400", "Ignore Target's Defense", "-25% Target Defense", "+(1.875 * Player Lvl)% Damage To Demons", "Adds 5-30 Fire Damage", "-20-25% To Enemy Poison Resistance", "20% Deadly Strike", "Prevent Monster Heal", "+2 To Mana After Each Kill", "+10-15 Life After Each Kill"]
   }, {
+    name: "Fortitude",
+    sockets: 4,
+    gearType: "All Ranged and Melee Weapons and Body Armor",
+    lvlReq: 59,
+    runes: ["El", "Sol", "Dol", "Lo"],
+    stats: ["BOTH", "20% Chance To Cast Level 15 Chilling Armor when Struck", "+25% Faster Cast Rate", "+300% Enhanced Damage", "+200% Enhanced Defense", "+((8-12) * Player Lvl) To Life", "All Resistances +25-30", "12% Damage Taken Goes To Mana", "+1 To Light Radius", "WEAPONS:", "+9 To Minimum Damage", "+50 To Attack Rating", "20% Deadly Strike", "Hit Causes Monster To Flee 25%", "ARMOR:", "+15 Defense", "Replenish Life +7", "+5% To Maximum Lightning Resist", "Damage Reduced By 7"]
+  }, {
+    name: "Exile",
+    sockets: 4,
+    gearType: "Paladin Shields",
+    lvlReq: 57,
+    runes: ["Vex", "Ohm", "Ist", "Dol"],
+    stats: ["15% Chance To Cast Level 5 Life Tap On Striking", "Level 13-16 Defiance Aura When Equipped", "+2 To Offensive Auras (Paladin Only)", "+30% Faster Block Rate", "Freezes Target", "+220-260% Enhanced Defense", "Replenish Life +7", "+5% To Maximum Cold Resist", "+5% To Maximum Fire Resist", "25% Better Chance Of Getting Magic Items", "Repairs 1 Durability every 4 seconds"]
+  }, {
+    name: "Call to Arms",
+    sockets: 5,
+    gearType: "All Ranged and Melee Weapons",
+    lvlReq: 57,
+    runes: ["Amn", "Ral", "Mal", "Ist", "Ohm"],
+    stats: ["+1 To All Skills", "+40% Increased Attack Speed", "+240-290% Enhanced Damage", "Adds 5-30 Fire Damage", "7% Life Stolen Per Hit", "+2-6 To Battle Command", "+1-6 To Battle Orders", "+1-4 To Battle Cry", "Prevent Monster Heal", "Replenish Life +12", "30% Better Chance of Getting Magic Items"]
+  }, {
+    name: "Chaos",
+    sockets: 3,
+    gearType: "Claws",
+    lvlReq: 57,
+    runes: ["Fal", "Ohm", "Um"],
+    stats: ["9% Chance To Cast Level 11 Frozen Orb On Striking", "11% Chance To Cast Level 9 Charged Bolt On Striking", "+35% Increased Attacked Speed", "+240-290% Enhanced Damage", "Adds 216-471 Magic Damage", "25% Chance of Open Wounds", "+1 To Whirlwind", "+10 To Strength", "+15 Life After Each Demon Kill"]
+  }, {
     
   }
 

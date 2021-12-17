@@ -110,6 +110,9 @@
   - Try single page functionality for ease of use.
   ![Draw.io](/RunewordCalculator/ClientApp/src/img/layout.drawio.png)
 
+.findIndex() find index of object array in object
+.values() 
+maybe use for...in loop
 
 
 
