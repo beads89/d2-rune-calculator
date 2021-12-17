@@ -358,6 +358,50 @@ let runewords = [
     lvlReq: 41,
     runes: ["Hel", "Ko", "Thul", "Eth", "Fal"],
     stats: ["30% Chance To Cast Level 21 Enchant When You Kill An Enemy", "+40% Faster Hit Recovery", "+370% Enhanced Damage", "-25% Target Defense", "Adds 3-14 Cold Damage", "-25% To Enemy Fire Resistance", "40% Chance of Crushing Blow", "+200-300 Defense", "+10 To Strength", "+10 To Dexterity", "All Resistance +20-30", "Requirements -20%"]
+  }, {
+    name: "Lionheart",
+    sockets: 3,
+    gearType: "Body Armor",
+    lvlReq: 41,
+    runes: ["Hel", "Lum", "Fal"],
+    stats: ["+20% Enhanced Damage", "+25 To Strength", "+15 To Dexterity", "+20 To Vitality", "+10 To Energy", "+50 To Life", "All Resistences +30", "Requirements -15%"]
+  }, {
+    name: "Melody",
+    sockets: 3,
+    gearType: "Bows and Crossbows",
+    lvlReq: 39,
+    runes: ["Shael", "Ko", "Nef"],
+    stats: ["+3 To Bow and Crossbow Skills (Amazon Only)", "+20% Increased Attack Speed", "+50% Enhanced Damage", "+300% Damage To Undead", "+3 To Slow Missiles (Amazon Only)", "+3 To Dodge (Amazon Only)", "+3 To Critical Strike (Amazon Only)", "Knockback", "+10 TO Dexterity"]
+  }, {
+    name: "Harmony",
+    sockets: 4,
+    gearType: "Bows and Crossbows",
+    lvlReq: 39,
+    runes: ["Tir", "Ith", "Sol", "Ko"],
+    stats: ["Level 10 Vigor Aura When Equipped", "+200-275% Enhanced Damage", "+9 To Minimum Damage", "+9 To Maximum Damage", "Adds 55-160 Fire Damage", "Adds 55-160 Lightning Damage", "Adds 55-160 Cold Damage", "+2-6 To Valkyrie", "+10 To Dexterity", "Regenerate Mana 20%", "+2 To Mana After Each Kill", "+2 To Light Radius", "Level 20 Revive (25 Charges)"]
+  }, {
+    name: "Memory",
+    sockets: 4,
+    gearType: "Staves",
+    lvlReq: 37,
+    runes: ["Lum", "Io", "Sol", "Eth"],
+    stats: ["+3 To Sorceress Skill Levels", "33% Faster Cast Rate", "+9 To Minimum Damage", "-25% Target Defense", "+3 To Energy Shield (Sorceress Only)", "+2 To Static Field (Sorceress Only)", "+50% Enhanced Defense", "+10 To Vitality", "+10 To Energy", "Increase Maximum Mana 20%", "Magic Damage Reduced By 7"]
+  }, {
+    name: "Splendor",
+    sockets: 2,
+    gearType: "All Shields",
+    lvlReq: 37,
+    runes: ["Eth", "Lum"],
+    stats: ["+1 To All Skills", "+10% Faster Cast Rate", "+20% Faster Block Rate", "+60-100% Enhanced Defense", "+10 TO Energy", "Regenerate Mana 15%", "50% Extra Gold From Monsters", "20% Better Chance of Getting Magic Items", "+30 TO Light Radius"]
+  }, {
+    name: "Smoke",
+    sockets: 2,
+    gearType: "Body Armor",
+    lvlReq: 37,
+    runes: ["Nef", "Lum"],
+    stats: ["+20% Faster Hit Recovery", "+75% Enhanced Defense", "+250 Defense vs. Missle", "+10 To Energy", "All Resistances +50", "-1 To Light Radius", "Level 6 Weaken (18 Charges"]
+  }, {
+    
   }
 
 
