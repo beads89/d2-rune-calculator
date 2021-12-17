@@ -170,6 +170,13 @@ let runewords = [
     runes: ["El", "Sol", "Dol", "Lo"],
     stats: ["BOTH", "20% Chance To Cast Level 15 Chilling Armor when Struck", "+25% Faster Cast Rate", "+300% Enhanced Damage", "+200% Enhanced Defense", "+((8-12) * Player Lvl) To Life", "All Resistances +25-30", "12% Damage Taken Goes To Mana", "+1 To Light Radius", "WEAPONS:", "+9 To Minimum Damage", "+50 To Attack Rating", "20% Deadly Strike", "Hit Causes Monster To Flee 25%", "ARMOR:", "+15 Defense", "Replenish Life +7", "+5% To Maximum Lightning Resist", "Damage Reduced By 7"]
   }, {
+    name: "Oath",
+    sockets: 4,
+    gearType: "Axes, Maces and Swords",
+    lvlReq: 59,
+    runes: ["Shael", "Pul", "Mal", "Lum"],
+    stats: ["Indestructible", "30% Chance To Cast Level 20 Bone Spirit On Striking", "+50% Increased Attack Speed", "+210-240% Enhanced Defense", "+75% Damage To Demons", "+100 To Attack Rating Against Demons", "Prevent Monster Heal", "+10 To Energy", "+10-15 Magic Absorb", "Level 16 Heart of Wolverine (20 Charges)", "Level 17 Iron Golem (14 Charges)"]
+  }, {
     name: "Exile",
     sockets: 4,
     gearType: "Paladin Shields",
@@ -191,7 +198,56 @@ let runewords = [
     runes: ["Fal", "Ohm", "Um"],
     stats: ["9% Chance To Cast Level 11 Frozen Orb On Striking", "11% Chance To Cast Level 9 Charged Bolt On Striking", "+35% Increased Attacked Speed", "+240-290% Enhanced Damage", "Adds 216-471 Magic Damage", "25% Chance of Open Wounds", "+1 To Whirlwind", "+10 To Strength", "+15 Life After Each Demon Kill"]
   }, {
-    
+    name: "Death",
+    sockets: 5,
+    gearType: "Swords and Axes",
+    lvlReq: 55,
+    runes: ["Hel", "El", "Vex", "Ort", "Gul"],
+    stats: ["Indestructible", "100% Chance To Cast Level 44 Chain Lightning When You Die", "25% Chance To Cast Level 18 Glacial Spike On Attack", "+300-385% Enhanced Damage", "20% Bonus To Attack Rating", "+50 To Attack Rating", "Adds 1-50 Lightning Damage", "7% Mana Stolen Per Hit", "50% Chance of Crushing Blow", "(0.5 * Player Lvl)% Deadly Strike", "+1 To Light Radius", "Level 22 Blood Golem (15 Charges)", "Requirements -20%"]
+  }, {
+    name: "Silence",
+    sockets: 6,
+    gearType: "All Ranged and Melee Weapons",
+    lvlReq: 55,
+    runes: ["Dol", "Eld", "Hel", "Ist", "Tir", "Vex"],
+    stats: ["+2 To All Skills", "+20% Increased Attack Speed", "+20% Faster Hit Recovery", "+200% Enhanced Damage", "+75% Damage To Undead", "+50 To Attack Rating Against Undead", "11% Mana Stolen Per Hit", "Hit Blinds Target +33", "Hit Causes Monster to Flee 25%", "All Resistances +75", "+2 to Mana After Each Kill", "30% Better Chance of Getting Magic Items", "Requirements -20%"]
+  }, {
+    name: "Heart of the Oak",
+    sockets: 4,
+    gearType: "Staves and Maces",
+    lvlReq: 55,
+    runes: ["Ko", "Vex", "Pul", "Thul"],
+    stats: ["+3 To All Skills", "+40% Faster Cast Rate", "+75% Damage To Demons", "+100 To Attack Rating Against Demons", "Adds 3-14 Cold Damage", "7% Mana Stolen Per Hit", "+10 To Dexterity", "Replenish Life +20", "Increase Maximum Mana 15%", "All Resistances +30-40", "Level 4 Oak Sage (25 Charges)", "Level 14 Raven (60 Charges)"]
+  }, {
+    name: "Principle",
+    sockets: 3,
+    gearType: "Body Armor",
+    lvlReq: 55,
+    runes: ["Ral", "Gul", "Eld"],
+    stats: ["100% Chance To Cast Level 5 Holy Bolt On Striking", "+2 To Paladin Skill Levels", "+50% Damage To Undead", "+100-150 to Life", "15% Slower Stamina Drain", "+5% To Maximum Poison Resist", "Fire Resist +30%"]
+  }, {
+    name: "Kingslayer",
+    sockets: 4,
+    gearType: "Swords and Axes",
+    lvlReq: 53,
+    runes: ["Mal", "Um", "Gul", "Fal"],
+    stats: ["+30% Increased Attack Speed", "+230-270% Enhanced Damage", "-25% Target Defense", "20% Bonus to Attack Rating", "33% Chance of Crushing Blow", "50% Chance of Open Wounds", "+1 To Vengeance", "Prevent Monster Heal", "+10 To Strength", "40% Extra Gold From Monsters"]
+  }, {
+    name: "Rift",
+    sockets: 4,
+    gearType: "Polearms and Scepters",
+    lvlReq: 53,
+    runes: ["Hel", "Ko", "Lem", "Gul"],
+    stats: ["20% Chance To Cast Level 16 Tornado On Striking", "16% Chance To Cast Level 21 Frozen Orb On Attack", "20% Bonus to Attack Rating", "Adds 160-250 Magic Damage", "Adds 60-180 Fire Damage", "+5-10 To All Attributes", "+10 To Dexterity", "38% Damage Taken Goes To Mana", "75% Extra Gold From Monsters", "Level 15 Iron Maiden (40 Charges)", "Requirements -20%"]
+  }, {
+    name: "Delirium",
+    sockets: 3,
+    gearType: "All Helmets",
+    lvlReq: 51,
+    runes: ["Lem", "Ist", "Io"],
+    stats: ["1% Chance To Cast lvl 50 Delirium When Struck", "6% Chance To Cast lvl 14 Mind Blast When Struck", "14% Chance To Cast lvl 13 Terror When Struck", "11% Chance To Cast lvl 18 Confuse On Striking", "+2 To All Skills", "+261 Defense", "+10 To Vitality", "50% Extra Gold From Monsters", "25% Better Chance of Getting Magic Items", "Level 17 Attract (60 Charges)"]
+  }, {
+
   }
 
 ]
