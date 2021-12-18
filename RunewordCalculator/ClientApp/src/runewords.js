@@ -485,8 +485,67 @@ let runewords = [
     runes: ["Tir", "Tal", "Anm"],
     stats: ["Level 15 Thorns Aura When Equipped", "+35% Increased Attack Speed", "+320-380% Damage To Demons", "+280% Damage To Undead", "+75 Poison Damage Over 5 Seconds", "7% Life Stolen Per Hit", "Prevent Monster Heal", "+5-10 To All Attributes", "+2 To Mana After Each Kill", "Reduces All Vendor Prices By 15%"]
   }, {
-    
+    name: "Strength",
+    sockets: 2,
+    gearType: "All Melee Weapons",
+    lvlReq: 25,
+    runes: ["Anm", "Tir"],
+    stats: ["+35% Enhanced Damage", "7% Life Stolen Per Hit", "25% Chance of Crushing Blow", "+20 To Strength", "+10 To Vitality", "+2 To Mana After Each Kill"]
+  }, {
+    name: "Holy Thunder",
+    sockets: 4,
+    gearType: "Scepters",
+    lvlReq: 23,
+    runes: ["Eth", "Ral", "Ort", "Tal"],
+    stats: ["+60% Enhanced Damage", "+10 To Maximum Damage", "-25% Target Defense", "Adds 5-30 Fire Damage", "Adds 21-110 Lightning Damage", "+75 Poison Damage Over 5 Seconds", "+3 to Holy Shock (Paladin Only)", "+5% to Maximum Lightning Resist", "Lightning Resist +60%", "Level 7 Chain Lightning (60 charges)"]
+  }, {
+    name: "Ancient's Pledge",
+    sockets: 3,
+    gearType: "All Shields",
+    lvlReq: 21,
+    runes: ["Ral", "Ort", "Tal"],
+    stats: ["+50% Enhanced Defense", "Cold Resist +43%", "Lightning Resist +48%", "Fire Resist +48%", "Poison Resist +48%", "10% Damage Taken Goes To Mana"]
+  }, {
+    name: "Zephyr",
+    sockets: 2,
+    gearType: "Bows and Crossbows",
+    lvlReq: 21,
+    runes: ["Ort", "Eth"],
+    stats: ["7% Chance to Cast Level 1 Twister When Struck", "+25% Faster Run/Walk", "+25% Increased Attack Speed", "+33% Enhanced Damage", "-25% Target Defense", "+66 To Attack Rating", "Adds 1-50 Lightning Damage", "+25 Defense"]
+  }, {
+    name: "Leaf",
+    sockets: 2,
+    gearType: "Staves",
+    lvlReq: 19,
+    runes: ["Tir", "Ral"],
+    stats: ["+3 To Fire Skills", "Adds 5-30 Fire Damage", "+3 to Inferno (Sorceress Only)", "+3 to Warmth (Sorceress Only)", "+3 to Fire Bolt (Sorceress Only)", "+(2 * Player Lvl) Defense", "Cold Resist +33%", "+2 To Mana After Each Kill"]
+  }, {
+    name: "Stealth",
+    sockets: 2,
+    gearType: "Body Armor",
+    lvlReq: 19,
+    runes: ["Tal", "Eth"],
+    stats: ["+25% Faster Run/Walk", "+25% Faster Cast Rate", "+25 Faster Hit Recovery", "+6 To Dexterity", "Regenerate Mana 15%", "+15 Maximum Stamina", "Poison Resist +30%", "Magic Damage Reduced By 3"]
+  }, {
+    name: "Malice",
+    sockets: 3,
+    gearType: "All Melee Weapons",
+    lvlReq: 15,
+    runes: ["Ith", "El", "Eth"],
+    stats: ["+33% Enhanced Damage", "+9 To Maximum Damage", "-25% Target Defense", "+50 To Attack Rating", "100% Chance of Open Wounds", "Prevent Monster Heal", "-100 To Monster Defense Per Hit", "Drain Life -5"]
+  }, {
+    name: "Nadir",
+    sockets: 2,
+    gearType: "All Helmets",
+    lvlReq: 13,
+    runes: ["Nef", "Tir"],
+    stats: ["+50% Enhanced Defense", "+10 Defense", "+30 Defense vs. Missiles", "+5 To Strength", "+2 To Mana After Each Kill", "-33% Extra Gold From Monsters", "-3 To Light Radius", "Level 13 Cloak of Shadows (9 Charges)"]
+  }, {
+    name: "Steel",
+    sockets: 2,
+    gearType: "Swords, Axes and Maces",
+    lvlReq: 13,
+    runes: ["Tir", "El"],
+    stats: ["+25% Increased Attack Speed", "+20% Enhanced Damage", "+3 To Minimum Damage", "+3 To Maximum Damage", "+50 To Attack Rating", "50% Chance of Open Wounds", "+2 To Mana After Each Kill", "+1 To Light Radius"]
   }
-
-
 ]
