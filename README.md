@@ -114,5 +114,10 @@
 .values() 
 maybe use for...in loop
 
+### Monday 12/20
+
+* Trying for...in loops, for...of loops, different Object.prototype.array methods to take value of rune/gear type input to find applicable runewords.
+  - Using JSFiddle to test
+
 
 
