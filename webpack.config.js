@@ -17,7 +17,7 @@ module.exports = {
     new CleanWebpackPlugin(),
     new Dotenv(),
     new HtmlWebpackPlugin({
-      title: 'Project Name',
+      title: 'Runeword Calculator',
       template: './src/index.html',
       inject: 'body'
     })
@@ -43,7 +43,7 @@ module.exports = {
             loader: 'file-loader',
             options: {
               name: '[name].[ext]',
-              outputPath: 'fonts/'
+              outputPath: 'assets/'
             },
           }
         ]
