@@ -1,0 +1,36 @@
+.runeSelect {
+  padding: 20px;
+  border: 2px solid black;
+  margin: auto;
+  background-color: rgb(250, 187, 111)
+}
+
+.centerText {
+  text-align: center;
+}
+
+.inputWidth {
+  width: 50px;
+}
+
+.headerBorder {
+  border-bottom: 2px solid black;
+}
+
+@font-face {
+  font-family: d2Font;
+  src: url(../assets/Exocet2.ttf);
+}
+
+body {
+  font-family: d2Font;
+  background-color: rgb(173, 72, 72);
+}
+
+.leftHeader {
+  position: left;
+}
+
+.rightHeader {
+  position: right;
+}
