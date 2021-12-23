@@ -2,7 +2,14 @@
   padding: 20px;
   border: 2px solid black;
   margin: auto;
-  background-color: rgb(250, 187, 111)
+  background-color: rgb(246, 173, 83)
+}
+
+.left {
+  position: absolute;
+  left: 0;
+  border-spacing: 10px;
+  padding-left: 15px;
 }
 
 .centerText {
