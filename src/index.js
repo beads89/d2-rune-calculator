@@ -5,7 +5,7 @@ import './css/styles.css';
 import { runewords } from './js/runewords.js';
 
 $(document).ready(function() {
-  $("#gearSlot").submit(function(event) {
+  $("form#runeGearInput").submit(function(event) {
     event.preventDefault();
     // const gearInput = $("#gearSlot").val();
     const runeInput = $(".rune-input").val();
